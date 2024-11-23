@@ -1,6 +1,6 @@
-## NAME : JEEVAPRIYA R
-## REG. NO.:212222220018
-# Monitoring-Light-intensity-value-in-Thing-speak-cloud
+### NAME : JEEVAPRIYA R
+### REG. NO.:212222220018
+# EX NO.4: Monitoring-Light-intensity-value-in-Thing-speak-cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
